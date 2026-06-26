@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi 👋, I'm Chanuka Rajapaksa
 
-<!--
-**ChanukaJR2002/ChanukaJR2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI Engineer · Software Engineering Student · CS & AI Undergraduate
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chanuka-rajapaksa-14b9533a1/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chanuka.rajapaksha@icloud.com)
+![Location](https://img.shields.io/badge/📍-Sri%20Lanka-555555?style=for-the-badge)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🎓 Currently studying Computer Science with AI at NIBM KIC.
+🌱 Currently learning advanced Machine Learning and Software Engineering practices
+💼 Currently seeking internship opportunities in AI/ML and Software Engineering
+📫 Reach me via LinkedIn or email above
+
+---
+
+## 🛠️ Skills
+
+![Skills](https://skillicons.dev/icons?i=python,java,cpp,MySQL,git,HTML,CSS,JS)
+
+---
+
+## 📌 Featured Projects
+
+- 🔹 [Customer Churn Model](https://github.com/ChanukaJR2002/Customer_Churn_Model) — Predicting customer churn using machine learning
+- 🔹 [Koi Fish Classifier](https://github.com/ChanukaJR2002/Koi_Fish_Classifier) — Image classification model for koi fish species
+- 🔹 [Audit Project](https://github.com/ChanukaJR2002/Audit_Project) — Data auditing and analysis project
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=ChanukaJR2002&color=blueviolet&style=flat-square)
