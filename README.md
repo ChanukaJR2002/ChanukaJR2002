@@ -17,7 +17,7 @@
 
 ## 🛠️ Skills
 
-![Skills](https://skillicons.dev/icons?i=python,java,cpp,mysql,git,HTML,CSS,JS)
+![Skills](https://skillicons.dev/icons?i=python,java,cpp,mysql,git,html,css,js)
 
 ---
 
